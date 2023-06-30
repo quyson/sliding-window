@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\bin\Debug\net7.0\stock.exe
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\bin\Debug\net7.0\stock.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\bin\Debug\net7.0\stock.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\bin\Debug\net7.0\stock.dll
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\bin\Debug\net7.0\stock.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.dll
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\refint\stock.dll
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\stock.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\stock\obj\Debug\net7.0\ref\stock.dll
