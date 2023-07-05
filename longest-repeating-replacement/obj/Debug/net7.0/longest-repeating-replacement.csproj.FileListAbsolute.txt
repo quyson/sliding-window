@@ -1,0 +1,15 @@
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\bin\Debug\net7.0\longest-repeating-replacement.exe
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\bin\Debug\net7.0\longest-repeating-replacement.deps.json
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\bin\Debug\net7.0\longest-repeating-replacement.runtimeconfig.json
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\bin\Debug\net7.0\longest-repeating-replacement.dll
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\bin\Debug\net7.0\longest-repeating-replacement.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.csproj.AssemblyReference.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.AssemblyInfoInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.AssemblyInfo.cs
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.csproj.CoreCompileInputs.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.dll
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\refint\longest-repeating-replacement.dll
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.pdb
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\longest-repeating-replacement.genruntimeconfig.cache
+C:\Users\Quyson\Desktop\computer\leetcode\sliding-window\longest-repeating-replacement\obj\Debug\net7.0\ref\longest-repeating-replacement.dll
